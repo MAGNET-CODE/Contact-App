@@ -1,0 +1,18 @@
+.container {
+    margin: 50px 0;
+    text-align: center;
+}
+.container h1{
+    color: #304ffe;
+    margin-bottom: 20px;
+}
+.container a {
+    text-decoration: none;
+    color: #304ffe;
+    padding: 3px 5px;
+    border-radius: 5px;
+    background-color: #bbdefb;
+}
+.container a:hover {
+    text-decoration: underline;
+}
